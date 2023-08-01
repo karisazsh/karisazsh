@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Deep Learning with Tensorflow (CNN and NLP)**
 
 - 📫 How to reach me **zihnikarisa@gmail.com**
-
+<br/> <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karisazihni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karisazihni" height="30" width="40" /></a>
