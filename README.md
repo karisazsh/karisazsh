@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Karisa Zihni Lutfiana 👋</h1>
 <h3 align="center">Computer Engineering Student</h3>
-<br/> <br/><br/> <br/>
+<br/> <br/>
 - 🌱 I’m currently learning **Deep Learning with Tensorflow (CNN and NLP)**
 
 - 📫 How to reach me **zihnikarisa@gmail.com**
