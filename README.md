@@ -2,7 +2,6 @@
 <h3 align="center">Computer Engineering Student</h3>
 <br/> <br/>
 
-- 🌱 I’m currently learning **Deep Learning with Tensorflow (CNN and NLP)**
 
 - 📫 How to reach me **zihnikarisa@gmail.com**
 <br/> <br/>
